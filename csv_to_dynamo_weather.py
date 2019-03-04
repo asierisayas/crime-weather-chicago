@@ -10,8 +10,8 @@ from random import randint
 import datetime
 import json
 
-AWS_KEY="AKIAIWFYRZWNWCDHI4ZA"
-AWS_SECRET="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"
+AWS_KEY=""
+AWS_SECRET=""
 REGION="us-east-2"
 
 dynamodb = boto3.resource('dynamodb', aws_access_key_id=AWS_KEY,
