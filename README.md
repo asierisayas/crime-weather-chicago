@@ -20,5 +20,5 @@ Screenshots
 ![Imgur](https://i.imgur.com/jZuLsFz.png)
 
 Conclusion
-- After applying the various models onto the data, there is some correlation between weather and crime, but not very strong
+- After applying the various models onto the data, I found that there is some correlation between weather and crime, but not very strong
 - Relatively, temperature has a noticeably greater effect on crime than precipitation, sporting a ~2.2% statistical significance vs ~-0.1% for precipitation
