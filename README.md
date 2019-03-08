@@ -12,3 +12,13 @@ Models used
 - Decision Tree Regression
 - Random Forest Regression
 - K-Means Clustering
+
+Screenshots
+![Imgur](https://i.imgur.com/xV332qP.png)
+![Imgur](https://i.imgur.com/VfPqSdR.png)
+![Imgur](https://i.imgur.com/8hvNS0M.png)
+![Imgur](https://i.imgur.com/jZuLsFz.png)
+
+Conclusion
+- After applying the various models onto the data, there is some correlation between weather and crime, but not very strong
+- Relatively, temperature has a noticeably greater effect on crime than precipitation, sporting a ~2.2% statistical significance vs ~-0.1% for precipitation
