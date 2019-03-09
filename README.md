@@ -15,7 +15,7 @@ Below you'll find my approach.
 
 ### Weather data set
 - Retrieved from OpenWeatherAPI saved locally as a CSV
-- Data is from Jan 1st 2005 til Feb 10th 2019
+- Data is from Jan 1st 2005 til Dec 31st 2014
 
 ### Storing the Data
 - DynamoDB
